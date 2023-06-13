@@ -10,7 +10,6 @@ This project gives crucial statistics for analysis of the performances individua
 <h2>Languages and Utilities Used</h2>
 
 - <b>Power BI</b> 
-- 
 - <b>SQL Server</b> 
 
 <h2>Environments Used </h2>
