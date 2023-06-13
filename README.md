@@ -11,9 +11,9 @@ This project gives crucial statistics for analysis of the performances individua
 
 - <b>Power BI</b> 
 - 
-- <b>MSSQL</b> 
+- <b>SQL Server</b> 
 
 <h2>Environments Used </h2>
 
-- <b>MS SQL Server</b> (21H2)
+- <b>MS SQL Server</b> 
 
